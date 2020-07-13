@@ -3,3 +3,4 @@ Real or Not Machine learning Kaggle competition submission. https://www.kaggle.c
 
 ## Submission prediction 
 Current naive implementation yields: 0.78179 
+
